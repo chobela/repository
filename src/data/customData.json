@@ -1,0 +1,186 @@
+{
+  "datax": [
+    {
+      "id": "1",
+      "fileName": "Procedures Manual: Consumer Credit",
+      "fileLink": "https://app-express.net/achire/docs/policy.pdf",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "2",
+      "fileName": "Achire Financial Statement 2021",
+      "fileLink": "https://app-express.net/achire/docs/achire_financial_statement_2021.pdf",
+      "fileOwner": "1",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "3",
+      "fileName": "ABS Bank Account Confirmation",
+      "fileLink": "https://app-express.net/achire/docs/achire_bank_confirmation.pdf",
+      "fileOwner": "1",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "4",
+      "fileName": "ABS Company Certificate",
+      "fileLink": "https://app-express.net/achire/docs/abs_cert.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "6",
+      "fileName": "ABS Email Address Confirmation",
+      "fileLink": "https://app-express.net/achire/docs/amail_address_conf.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "7",
+      "fileName": "ABS ASTRO Recommendation Letter",
+      "fileLink": "https://app-express.net/achire/docs/abs_astro_recomm.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "8",
+      "fileName": "ABS Business Name Certificate",
+      "fileLink": "https://app-express.net/achire/docs/abs_business_name.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "9",
+      "fileName": "ABS PESA Recommendation Letter",
+      "fileLink": "https://app-express.net/achire/docs/pesa_recomm.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "10",
+      "fileName": "ABS Stanbic Reference Letter",
+      "fileLink": "https://app-express.net/achire/docs/pesa_recomm.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "11",
+      "fileName": "ABS Tax Clearance Certificate",
+      "fileLink": "https://app-express.net/achire/docs/abs_tax_clearance.pdf",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "12",
+      "fileName": "ABS Hitlist",
+      "fileLink": "https://app-express.net/achire/docs/abs-hitlist.xlsx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "13",
+      "fileName": "Employees Tracker",
+      "fileLink": "https://app-express.net/achire/docs/tracker.xlsx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "14",
+      "fileName": "PESA Letterhead",
+      "fileLink": "https://app-express.net/achire/docs/pesa_letterhead.docx",
+      "fileOwner": "1",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "15",
+      "fileName": "ABS Business Profile",
+      "fileLink": "https://app-express.net/achire/docs/abs_profile.docx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "16",
+      "fileName": "BOZ Statistics 2021",
+      "fileLink": "https://app-express.net/achire/docs/boz_statistics_2021.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "17",
+      "fileName": "Movable Property (Security Interest) Act",
+      "fileLink": "https://app-express.net/achire/docs/movable_property_act.pdf",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "18",
+      "fileName": "ABS Draft SLA for clients",
+      "fileLink": "https://app-express.net/achire/docs/draft_sla.docx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "19",
+      "fileName": "Syngenta Contract",
+      "fileLink": "https://app-express.net/achire/docs/syngenta_contract.docx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "20",
+      "fileName": "ABS Balanced Scorecard",
+      "fileLink": "https://app-express.net/achire/docs/balanced-scorecard.xlsx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "21",
+      "fileName": "ABS Goals",
+      "fileLink": "https://app-express.net/achire/docs/abs_goals.docx",
+      "fileOwner": "2",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "22",
+      "fileName": "Collections Officer JD",
+      "fileLink": "https://app-express.net/achire/docs/col_officer_jd.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "23",
+      "fileName": "Collections Acc Manager JD",
+      "fileLink": "https://app-express.net/achire/docs/col_acc_manager.pdf",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "24",
+      "fileName": "Oranization Structure",
+      "fileLink": "https://app-express.net/achire/docs/org_structure.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "25",
+      "fileName": "Admin/IT Manager JD",
+      "fileLink": "https://app-express.net/achire/docs/admin_it.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "26",
+      "fileName": "Loan Officer JD",
+      "fileLink": "https://app-express.net/achire/docs/loan_officer.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    },
+    {
+      "id": "27",
+      "fileName": "Credit Operations Manager JD",
+      "fileLink": "https://app-express.net/achire/docs/credit_operations.docx",
+      "fileOwner": "0",
+      "editDate": "30/10/2022"
+    }
+  ]
+}
